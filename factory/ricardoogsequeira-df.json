@@ -1,0 +1,9 @@
+{
+	"name": "ricardoogsequeira-df",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c5f3ffc-fc3f-4a7d-a929-eb1fae46b5cc",
+		"tenantId": "a41d19a6-15e6-4424-a4a8-ea839ece847b"
+	}
+}
